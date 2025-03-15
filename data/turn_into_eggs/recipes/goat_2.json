@@ -17,7 +17,13 @@
     }
   },
   "result": {
-    "item": "minecraft:goat_spawn_egg",
-    "count": 1
+    "id": "minecraft:goat_spawn_egg",
+    "count": 1,
+    "components": {
+      "entity_data": {
+        "id": "",
+        "NoAI": true
+      }
+    }
   }
 }

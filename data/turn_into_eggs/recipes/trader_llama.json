@@ -10,7 +10,13 @@
             }
         ],
         "result": {
-            "item": "minecraft:trader_llama_spawn_egg",
-            "count": 2
+            "id": "minecraft:trader_llama_spawn_egg",
+            "count": 2,
+            "components": {
+              "entity_data": {
+                "id": "",
+                "NoAI": true
+              }
+            }
         }
     }

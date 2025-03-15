@@ -20,7 +20,13 @@
     }
   },
   "result": {
-    "item": "minecraft:rabbit_spawn_egg",
-    "count": 1
+    "id": "minecraft:rabbit_spawn_egg",
+    "count": 1,
+    "components": {
+      "entity_data": {
+        "id": "",
+        "NoAI": true
+      }
+    }
   }
 }

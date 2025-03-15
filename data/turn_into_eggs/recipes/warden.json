@@ -22,7 +22,13 @@
             }
         ],
         "result": {
-            "item": "minecraft:warden_spawn_egg",
-            "count": 1
+            "id": "minecraft:warden_spawn_egg",
+            "count": 1,
+            "components": {
+              "entity_data": {
+                "id": "",
+                "NoAI": true
+              }
+            }
         }
     }

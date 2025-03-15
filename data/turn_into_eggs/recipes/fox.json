@@ -24,7 +24,13 @@
             }
         ],
         "result": {
-            "item": "minecraft:fox_spawn_egg",
-            "count": 3
+            "id": "minecraft:fox_spawn_egg",
+            "count": 3,
+            "components": {
+              "entity_data": {
+                "id": "",
+                "NoAI": true
+              }
+            }
         }
     }

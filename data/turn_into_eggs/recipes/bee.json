@@ -21,6 +21,12 @@
   },
   "result": {
     "id": "minecraft:bee_spawn_egg",
-    "count": 1
+    "count": 1,
+    "components": {
+      "entity_data": {
+        "id": "",
+        "NoAI": true
+      }
+    }
   }
 }

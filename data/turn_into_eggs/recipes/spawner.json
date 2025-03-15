@@ -2,25 +2,16 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "AAA",
-    "BDC",
+    "A A",
     "AAA"
   ],
   "key": {
     "A": {
-      "item": "minecraft:rotten_flesh"
-    },
-    "B": {
-      "item": "minecraft:nautilus_shell"
-    },
-    "C": {
-      "item": "minecraft:trident"
-    },
-    "D": {
-      "item": "minecraft:egg"
+      "item": "minecraft:iron_ingot"
     }
   },
   "result": {
-    "id": "minecraft:drowned_spawn_egg",
+    "id": "minecraft:spawner",
     "count": 1,
     "components": {
       "entity_data": {

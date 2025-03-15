@@ -13,7 +13,13 @@
     }
   },
   "result": {
-    "item": "minecraft:strider_spawn_egg",
-    "count": 1
+    "id": "minecraft:strider_spawn_egg",
+    "count": 1,
+    "components": {
+      "entity_data": {
+        "id": "",
+        "NoAI": true
+      }
+    }
   }
 }
